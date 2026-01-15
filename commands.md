@@ -1,0 +1,12 @@
+ls
+cat
+head
+tail
+touch
+who
+which
+awk
+sed
+grep
+uniq
+sort
